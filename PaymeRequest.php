@@ -6,7 +6,7 @@
  * Time: 17:19
  */
 
-namespace app\components\payme;
+namespace shoxabbos\paymeuz;
 
 /**
  * Bu klass requestlarni obrabotka va validatsiya qilib

@@ -1,5 +1,5 @@
 <?php
-namespace app\components\payme;
+namespace shoxabbos\paymeuz;
 
 /**
  * Bu kontract klass, agar shu package boshqa frameworkda ishlatilsa

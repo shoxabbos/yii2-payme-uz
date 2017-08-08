@@ -1,5 +1,5 @@
 <?php
-namespace app\components\payme;
+namespace shoxabbos\paymeuz;
 
 /**
  * Klass dlya otpravki otvetov

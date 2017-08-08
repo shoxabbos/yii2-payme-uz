@@ -1,10 +1,10 @@
 <?php
 namespace app\components\payme\oxo;
 
-use app\components\payme\AbstractPayme;
-use app\components\payme\yii2\DbTransactionProvider;
-use app\components\payme\PaymeResponse;
 use app\models\user\User;
+use shoxabbos\paymeuz\AbstractPayme;
+use shoxabbos\paymeuz\PaymeResponse;
+use shoxabbos\paymeuz\yii2\DbTransactionProvider;
 
 class Wallet extends AbstractPayme
 {

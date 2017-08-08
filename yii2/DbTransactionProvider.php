@@ -1,8 +1,7 @@
 <?php
-namespace app\components\payme\yii2;
+namespace shoxabbos\paymeuz\yii2;
 
-use app\components\payme\TransactionProvider;
-
+use shoxabbos\paymeuz\TransactionProvider;
 
 /**
  * Bu class yii2 frameworkdan zavisit qiladi

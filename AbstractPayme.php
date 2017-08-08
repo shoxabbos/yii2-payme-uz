@@ -1,7 +1,6 @@
 <?php
-namespace app\components\payme;
+namespace shoxabbos\paymeuz;
 
-use app\components\payme\TransactionProvider;
 
 abstract class AbstractPayme
 {
