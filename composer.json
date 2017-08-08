@@ -1,0 +1,21 @@
+{
+    "name": "myself/yii2-payme-uz",
+    "description": "Payme ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","payme.uz"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shoxabbos",
+            "email": "19941001@inbox.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "shoxabbos\\paymeuz\\": ""
+        }
+    }
+}
